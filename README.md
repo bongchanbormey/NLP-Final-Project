@@ -2,7 +2,7 @@
 ITM-454: NLP Course Final Project
 
 ## Project Overview: Harmful Hate Speech Detection
-This project implements a Hate, Offensive, and Neutral/Neither text classifier using a dataset from HuggingFace (https://huggingface.co/datasets/tdavidson/hate_speech_offensive), TF-IDF vectorization, and a Logistic Regression model. It includes full preprocessing (emoji handling, stopwords, POS tagging, lemmatization, etc.), dataset balancing, model training, evaluation, and a simple Streamlit interface for demonstration purposes.
+This project implements a Hate, Offensive, and Neutral/Neither text classifier using a dataset from Kaggle (https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset), TF-IDF vectorization, and a Logistic Regression model. It includes full preprocessing (emoji handling, stopwords, POS tagging, lemmatization, etc.), dataset balancing, model training, evaluation, and a simple Streamlit interface for demonstration purposes.
 
 ---
 
